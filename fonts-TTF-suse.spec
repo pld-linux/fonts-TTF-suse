@@ -1,5 +1,5 @@
 Summary:	SUSE True Type fonts
-Summary(pl.UTF-8):   Fonty True Type z dystrybucji SUSE
+Summary(pl.UTF-8):	Fonty True Type z dystrybucji SUSE
 Name:		fonts-TTF-suse
 Version:	9.2
 Release:	1
