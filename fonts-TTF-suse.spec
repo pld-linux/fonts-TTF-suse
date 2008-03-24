@@ -1,5 +1,5 @@
-Summary:	SUSE True Type fonts
-Summary(pl.UTF-8):	Fonty True Type z dystrybucji SUSE
+Summary:	SUSE TrueType fonts
+Summary(pl.UTF-8):	Fonty TrueType z dystrybucji SUSE
 Name:		fonts-TTF-suse
 Version:	9.2
 Release:	1
@@ -18,10 +18,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define		_ttffontsdir	%{_fontsdir}/TTF
 
 %description
-This package contains SUSE True Type fonts (TTF).
+This package contains SUSE TrueType fonts (TTF).
 
 %description -l pl.UTF-8
-Pakiet ten zawiera fonty True Type (TTF) z dystrybucji SUSE.
+Pakiet ten zawiera fonty TrueType (TTF) z dystrybucji SUSE.
 
 %prep
 %setup -q -c -T
